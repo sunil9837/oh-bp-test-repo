@@ -6,6 +6,6 @@ WORKDIR /app
 
 # Copy any application files from the current directory to the container (optional)
 # COPY . /app
-
+sssssss
 # Default command to run when the container starts
 CMD ["java", "-version"]
